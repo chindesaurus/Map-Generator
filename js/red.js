@@ -1,0 +1,15 @@
+var red = [
+[	30.400981, -97.719182, 'Software Development', '11501 Alterra Parkway Suite 200, Austin, TX'],
+[	42.362321	, -71.080738, 'Software Development', '101 Main Street, Cambridge, MA'],
+[	37.319847	, -122.029873, 'Software Development', '10201 Torre Avenue, Cupertino, CA'],
+[	42.328233	, -83.046367, 'Software Development', '150 W Jefferson Avenue, Detroit, MI'],
+[	38.954736	, -77.4043, 'Software Development', '13200 Woodland Park Road, Herndon, VA'],
+[	33.65065	, -117.751723, 'Software Development', '40 Pacifica #100, Irvine, CA'],
+[	44.984149	, -93.275018, 'Software Development', '323 N Washington Avenue, Minneapolis, MN'],
+[	40.749017	, -73.985299, 'Software Development', '7 W 34th Street, New York, NY'],
+[	40.427414	, -79.965835, 'Software Development', '2730 Sidney Street, Pittsburgh, PA'],
+[	37.791325	, -122.392971, 'Software Development', '188 Spear Street, San Francisco, CA'],
+[	35.281798	, -120.661125, 'Software Development', '1005 Monterey Street, San Luis Obispo, CA'],
+[	47.622192	, -122.336546, 'Software Development', '410 Terry Ave N, Seattle, WA'],
+[	33.338374	, -111.89711, 'Software Development', '8600 S Science Drive, Tempe, AZ'],
+];
