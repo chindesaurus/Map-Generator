@@ -12,20 +12,18 @@ Column E contains the corresponding line in JSON for our marker that will be wri
 
 Click the Update Map Markers button in the upper right. This runs a macro that will write JSON to each corresponding color-named JSON file in the ***./js/*** directory.
 
-## Change the marker image(s)
+## Change the marker image(s) (optional)
 
 Go to the ***./markers/*** directory and replace the color-named .png file with the .png image of your choice.
+
+## Set up the map
+
+Open ***map.html*** in a text editor. Replace "YOUR_KEY_HERE" on line 19 with your Google Maps Javascript API key.
+Map controls are set in the JavaScript initialize() function starting on line 42. You can configure map controls, default zoom level and location, and map styles here. 
+Change your map legend labels starting on line 107.
+
+> **ProTip:** Please review the Google Maps JavaScript API documentation here: https://developers.google.com/maps/documentation/javascript/maptypes
 
 ## View the map
 
 Open ***map.html*** in your browser.
-
-## Customize the map style
-
-Open ***map.html*** in a text editor. Map controls are set in the JavaScript initialize() function starting on line 48. You can configure map controls, default zoom level and location, and map styles here. 
-
-> **ProTip:** Please review the Google Maps JavaScript API documentation here: https://developers.google.com/maps/documentation/javascript/maptypes
-
-## Edit the legend
-
-Open ***map.html*** in a text editor. You can change the icons and text displayed for each marker color on lines 113 through 149.
